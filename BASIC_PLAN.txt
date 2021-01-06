@@ -13,4 +13,4 @@ SIMULATION
 -Intakes the moves and shows it out there in the website.
 
 LANGUAGES/TOOLS:
-C++, Javascript, Unreal
+C++, Javascript, Unreal, HTML 5
