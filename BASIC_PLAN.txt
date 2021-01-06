@@ -1,0 +1,16 @@
+BACKEND
+-Implement Thislethwaite's Algorithm.
+-Implement Korf's Algorithm. 
+
+FRONTEND
+-A place to call the backend.
+-Visualize the Simulation.
+-Let user choose the algorithm to solve the rubik's cube.
+-Let user make the rubik's cube or randomize it.
+--The user can choose how many moves should be done to scramble the rubik's cube. (Min 40)
+
+SIMULATION
+-Intakes the moves and shows it out there in the website.
+
+LANGUAGES/TOOLS:
+C++, Javascript, Unreal
